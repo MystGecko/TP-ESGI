@@ -1,7 +1,7 @@
 ---
 name: Feature <Name>
 about: New feature for project
-title: ''
+title: "[Feature] - <Name>"
 labels: ''
 assignees: MystGecko
 
