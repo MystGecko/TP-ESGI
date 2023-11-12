@@ -10,7 +10,7 @@
     <?php
     Echo "Ajout d'un user !"
     ?>
-
+    <h2>FIX</h2>
     <script>
         consol.x("bonjour")
     </script>
